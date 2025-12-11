@@ -1,2 +1,68 @@
-# retail-sales-sql-analysis
-SQL-based retail sales analysis project with real-world dataset, business insights, and analytical queries
+
+
+---
+
+##  Dataset Description
+
+The dataset includes:
+- Region  
+- Country  
+- Item Type  
+- Sales Channel (Online/Offline)  
+- Order Date  
+- Units Sold  
+- Unit Price  
+- Unit Cost  
+- Total Revenue  
+- Total Cost  
+- Total Profit  
+
+Details and visual output are included in the PDF report.
+
+---
+
+##  SQL Queries Included
+
+The SQL analyses in this project include:
+
+1. Total Revenue  
+2. Profit by Item Type  
+3. Revenue by Country  
+4. Sales Channel Performance  
+5. Monthly Revenue Trend  
+
+All SQL queries are located in:
+
+
+---
+
+##  Final Report
+
+The full PDF report is located at:
+
+
+It includes:
+- SQL Queries  
+- Output tables  
+- Business insights  
+- Final summary  
+
+---
+
+##  Tools Used
+
+- MySQL / PostgreSQL
+- SQL Joins, Aggregations, Grouping
+- Real-world retail dataset
+- PDF reporting
+
+---
+
+##  Author
+
+**Thirumurugan — SQL Data Analyst**
+
+This project is part of my  SQL analysis portfolio.
+
+
+
