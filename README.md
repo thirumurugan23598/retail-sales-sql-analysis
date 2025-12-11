@@ -31,14 +31,14 @@ The SQL analyses in this project include:
 4. Sales Channel Performance  
 5. Monthly Revenue Trend  
 
-All SQL queries are located in:
+All SQL queries are located in:https://github.com/thirumurugan23598/retail-sales-sql-analysis/blob/main/retail%20data%20analysis.sql
 
 
 ---
 
 ##  Final Report
 
-The full PDF report is located at:
+The full PDF report is located at:https://github.com/thirumurugan23598/retail-sales-sql-analysis/blob/main/Sales%20data%20analysis.pdf
 
 
 It includes:
